@@ -1,5 +1,4 @@
-# Churn-Analysis-using-Power-BI
-🔎 Project Overview
+#🔎 Project Overview
 
 Customer retention is critical in today’s competitive business landscape. This project demonstrates a complete end-to-end churn analysis pipeline, starting from raw data ingestion to predictive modeling and interactive dashboard visualization.
 
